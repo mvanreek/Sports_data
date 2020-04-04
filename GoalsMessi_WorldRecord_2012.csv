@@ -1,0 +1,92 @@
+GoalID;Date;Team;Mode;Opponent;Competition
+1;2012-01-04;Barcelona;Head;Osasuna;Spanish Cup
+2;2012-01-04;Barcelona;Left;Osasuna;Spanish Cup
+3;2012-01-15;Barcelona;Right;Betis;Spanish League
+4;2012-01-15;Barcelona;Penalty;Betis;Spanish League
+5;2012-02-04;Barcelona;Left;Real Sociedad;Spanish League
+6;2012-02-11;Barcelona;Left;Racing de Santander;Spanish League
+7;2012-02-11;Barcelona;Penalty;Racing de Santander;Spanish League
+8;2012-02-14;Barcelona;Left;Bayer Leverkusen;Champions League
+9;2012-02-19;Barcelona;Left;Valencia;Spanish League
+10;2012-02-19;Barcelona;Left;Valencia;Spanish League
+11;2012-02-19;Barcelona;Left;Valencia;Spanish League
+12;2012-02-19;Barcelona;Left;Valencia;Spanish League
+13;2012-02-26;Barcelona;Free kick;Atlético Madrid;Spanish League
+14;2012-02-29;Argentina;Left;Switzerland;Friendly match
+15;2012-02-29;Argentina;Left;Switzerland;Friendly match
+16;2012-02-29;Argentina;Penalty;Switzerland;Friendly match
+17;2012-03-07;Barcelona;Left;Bayer Leverkusen;Champions League
+18;2012-03-07;Barcelona;Left;Bayer Leverkusen;Champions League
+19;2012-03-07;Barcelona;Right;Bayer Leverkusen;Champions League
+20;2012-03-07;Barcelona;Left;Bayer Leverkusen;Champions League
+21;2012-03-07;Barcelona;Left;Bayer Leverkusen;Champions League
+22;2012-03-17;Barcelona;Left;Sevilla;Spanish League
+23;2012-03-20;Barcelona;Left;Granada;Spanish League
+24;2012-03-20;Barcelona;Left;Granada;Spanish League
+25;2012-03-20;Barcelona;Left;Granada;Spanish League
+26;2012-03-24;Barcelona;Free kick;Mallorca;Spanish League
+27;2012-03-31;Barcelona;Penalty;Athletic Bilbao;Spanish League
+28;2012-04-03;Barcelona;Penalty;Milan;Champions League
+29;2012-04-03;Barcelona;Penalty;Milan;Champions League
+30;2012-04-07;Barcelona;Left;Zaragoza;Spanish League
+31;2012-04-07;Barcelona;Penalty;Zaragoza;Spanish League
+32;2012-04-10;Barcelona;Left;Getafe;Spanish League
+33;2012-04-14;Barcelona;Left;Levante;Spanish League
+34;2012-04-14;Barcelona;Penalty;Levante;Spanish League
+35;2012-04-29;Barcelona;Left;Rayo Vallecano;Spanish League
+36;2012-04-29;Barcelona;Left;Rayo Vallecano;Spanish League
+37;2012-05-02;Barcelona;Head;Málaga;Spanish League
+38;2012-05-02;Barcelona;Left;Málaga;Spanish League
+39;2012-05-02;Barcelona;Left;Málaga;Spanish League
+40;2012-05-02;Barcelona;Penalty;Málaga;Spanish League
+41;2012-05-02;Barcelona;Penalty;Málaga;Spanish League
+42;2012-05-02;Barcelona;Left;Málaga;Spanish League
+43;2012-05-05;Barcelona;Free kick;Espanyol;Spanish League
+44;2012-05-05;Barcelona;Penalty;Espanyol;Spanish League
+45;2012-05-05;Barcelona;Left;Espanyol;Spanish League
+46;2012-05-05;Barcelona;Penalty;Espanyol;Spanish League
+47;2012-05-25;Barcelona;Right;Athletic Bilbao;Spanish Cup
+48;2012-06-02;Argentina;Left;Ecuador;Qualifications
+49;2012-06-09;Argentina;Left;Brasil;Friendly match
+50;2012-06-09;Argentina;Left;Brasil;Friendly match
+51;2012-06-09;Argentina;Left;Brasil;Friendly match
+52;2012-08-15;Argentina;Left;Germany;Friendly match
+53;2012-08-19;Barcelona;Left;Real Sociedad;Spanish League
+54;2012-08-19;Barcelona;Left;Real Sociedad;Spanish League
+55;2012-08-23;Barcelona;Penalty;Real Madrid;Spanish Super Cup
+56;2012-08-26;Barcelona;Left;Osasuna;Spanish League
+57;2012-08-26;Barcelona;Left;Osasuna;Spanish League
+58;2012-08-29;Barcelona;Free kick;Real Madrid;Spanish Super Cup
+59;2012-09-07;Argentina;Free kick;Paraguay;Qualifications
+60;2012-09-15;Barcelona;Penalty;Getafe;Spanish League
+61;2012-09-15;Barcelona;Left;Getafe;Spanish League
+62;2012-09-19;Barcelona;Left;Spartak Moscú;Champions League
+63;2012-09-19;Barcelona;Head;Spartak Moscú;Champions League
+64;2012-10-07;Barcelona;Left;Real Madrid;Spanish League
+65;2012-10-07;Barcelona;Free kick;Real Madrid;Spanish League
+66;2012-10-12;Argentina;Right;Uruguay;Qualifications
+67;2012-10-12;Argentina;Free kick;Uruguay;Qualifications
+68;2012-10-16;Argentina;Left;Chile;Qualifications
+69;2012-10-20;Barcelona;Left;Deportivo La Coruña;Spanish League
+70;2012-10-20;Barcelona;Right;Deportivo La Coruña;Spanish League
+71;2012-10-20;Barcelona;Left;Deportivo La Coruña;Spanish League
+72;2012-10-27;Barcelona;Left;Rayo Vallecano;Spanish League
+73;2012-10-27;Barcelona;Right;Rayo Vallecano;Spanish League
+74;2012-11-07;Barcelona;Left;Celtic;Champions League
+75;2012-11-11;Barcelona;Left;Mallorca;Spanish League
+76;2012-11-11;Barcelona;Left;Mallorca;Spanish League
+77;2012-11-17;Barcelona;Left;Zaragoza;Spanish League
+78;2012-11-17;Barcelona;Left;Zaragoza;Spanish League
+79;2012-11-20;Barcelona;Right;Spartak Moscú;Champions League
+80;2012-11-20;Barcelona;Left;Spartak Moscú;Champions League
+81;2012-11-25;Barcelona;Left;Levante;Spanish League
+82;2012-11-25;Barcelona;Left;Levante;Spanish League
+83;2012-12-01;Barcelona;Right;Athletic;Spanish League
+84;2012-12-01;Barcelona;Left;Athletic;Spanish League
+85;2012-12-09;Barcelona;Left;Belis;Spanish League
+86;2012-12-09;Barcelona;Left;Belis;Spanish League
+87;2012-12-12;Barcelona;Left;Cordoba;Spanish Cup
+88;2012-12-12;Barcelona;Left;Cordoba;Spanish Cup
+89;2012-12-16;Barcelona;Left;Atlético Madrid;Spanish League
+90;2012-12-16;Barcelona;Left;Atlético Madrid;Spanish League
+91;2012-12-22;Barcelona;Left;Valladolid;Spanish League
